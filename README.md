@@ -11,5 +11,6 @@ So the first part of the number is my age, the second part is the month of this 
 My English is getting worse now due to the lack of use. But I may need to use it for future work, which is part of my ability need to move up. So even though I have difficulties using English to write it down, I insist on using it. The difficulty always brings high quality joys.
 ### Why Github?
 I saw my humman body including the brain as my product, and my mind is the PM of this product. So as a PM, using Github for release not is the best.
+- - - -
 ## For readers
 
